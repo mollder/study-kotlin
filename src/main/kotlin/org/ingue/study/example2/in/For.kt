@@ -1,4 +1,4 @@
-package org.ingue.study.`in`
+package org.ingue.study.example2.`in`
 
 class For {
 }

@@ -1,4 +1,4 @@
-package org.ingue.study.exception
+package org.ingue.study.example2.exception
 
 import java.io.BufferedReader
 import java.io.StringReader
