@@ -30,8 +30,5 @@ fun main() {
     println(payroll1 == payroll2)
 
     val nonCompanionUser = NonCompanionUser(email = "mollder@naver.com")
-
     val companionUser = CompanionUser.newSubscribingUser("mollder@naver.com")
-
-
 }
